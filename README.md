@@ -60,3 +60,16 @@ Request Body:
 ```
 Authorization: Bearer <JWT_TOKEN>
 ```
+
+### 📸 Sample Request in Postman
+
+![Register Request in Postman](screenshots/register.png)
+
+### 🔐 Login Response
+
+![Login Token](screenshots/login.png)
+
+### 🔍 Get User Info (with Bearer token)
+
+![User Info](screenshots/user_info.png)
+
