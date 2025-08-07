@@ -60,14 +60,3 @@ Request Body:
 ```
 Authorization: Bearer <JWT_TOKEN>
 ```
-
-## 📁 Files Included
-
-- `src/` — Project source code
-- `pom.xml` — Maven dependencies
-- `README.md` — This file
-- `auth_db.sql` — MySQL DB export (if included)
-- `Syed_SpringBoot_Auth_Presentation.pptx` — Optional submission slide deck
-
-## ✅ Done!
-This project is ready to clone, run, and test for assignments or interview demo.
